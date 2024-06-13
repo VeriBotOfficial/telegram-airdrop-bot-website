@@ -19,10 +19,14 @@ python -m pip install python-telegram-bot
 
 ## Customize the bot
 1- Open bot.py by VSCode/Notepad
+
 2- Go to line 24 and change the url to your website
+
 3- Go to line 34 and change 'Paste Your Token Here' to your bots token
 
 ## Run the bot
 1- Open command prompt
+
 2- Paste This Code:
+
 python bot.py
