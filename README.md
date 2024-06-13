@@ -13,6 +13,7 @@ https://www.python.org/downloads/release/python-3123/
 
 ## Install Libraries
 1- Open Command Prompt
+
 2- Paste This Code:
 python -m pip install python-telegram-bot
 
